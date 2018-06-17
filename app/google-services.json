@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268465125702",
+    "firebase_url": "https://amigo-connect-b8132.firebaseio.com",
+    "project_id": "amigo-connect-b8132",
+    "storage_bucket": "amigo-connect-b8132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268465125702:android:11b263c0c3dc6384",
+        "android_client_info": {
+          "package_name": "com.amigoconnect.admin.amigoconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268465125702-ei8aa7ouh63q9qfj1j73smr2a8fuvia6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amigoconnect.admin.amigoconnect",
+            "certificate_hash": "77153fc7b681f46df17f00b923c9b0321afd9951"
+          }
+        },
+        {
+          "client_id": "268465125702-meaagsdl78q65egdlc557mpailo5gslc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9E1Iba0CTrFeIcYpqfNBlZWVzHjC0e7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268465125702-meaagsdl78q65egdlc557mpailo5gslc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
